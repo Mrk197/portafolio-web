@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Avatar ilustrado de perfil">
+  <!-- Fondo -->
+  <rect width="400" height="400" fill="#E8F7F0"/>
+  <circle cx="200" cy="200" r="150" fill="#3EB489" fill-opacity="0.18"/>
+
+  <!-- Hombros / sudadera -->
+  <path d="M70 400 C70 310 130 270 200 270 C270 270 330 310 330 400 Z" fill="#2F3437"/>
+  <!-- Cuello de la sudadera -->
+  <path d="M165 272 L200 315 L235 272 Z" fill="#3EB489"/>
+  <!-- Logo </> en la sudadera -->
+  <g fill="none" stroke="#3EB489" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="178,345 166,358 178,371"/>
+    <polyline points="222,345 234,358 222,371"/>
+    <line x1="206" y1="341" x2="194" y2="375" stroke="#FFFFFF"/>
+  </g>
+
+  <!-- Cuello -->
+  <rect x="180" y="230" width="40" height="45" rx="12" fill="#E0AC85"/>
+
+  <!-- Cabeza -->
+  <ellipse cx="200" cy="175" rx="62" ry="72" fill="#F1C29E"/>
+  <!-- Orejas -->
+  <ellipse cx="138" cy="180" rx="10" ry="16" fill="#E0AC85"/>
+  <ellipse cx="262" cy="180" rx="10" ry="16" fill="#E0AC85"/>
+
+  <!-- Cabello -->
+  <path d="M136 165 C130 110 165 92 200 92 C245 92 272 115 264 165 C255 140 235 128 205 130 C180 132 160 125 150 118 C146 135 142 150 136 165 Z" fill="#2F3437"/>
+
+  <!-- Lentes -->
+  <g fill="none" stroke="#2F3437" stroke-width="5">
+    <rect x="152" y="165" width="40" height="30" rx="10"/>
+    <rect x="208" y="165" width="40" height="30" rx="10"/>
+    <line x1="192" y1="178" x2="208" y2="178"/>
+  </g>
+  <!-- Ojos -->
+  <circle cx="172" cy="181" r="4.5" fill="#2F3437"/>
+  <circle cx="228" cy="181" r="4.5" fill="#2F3437"/>
+
+  <!-- Sonrisa -->
+  <path d="M182 215 Q200 230 218 215" fill="none" stroke="#2F3437" stroke-width="5" stroke-linecap="round"/>
+</svg>

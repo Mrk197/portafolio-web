@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Logo MiPortafolio">
+  <rect width="120" height="120" fill="#FFFFFF"/>
+  <!-- Contenedor del icono -->
+  <rect x="10" y="10" width="100" height="100" rx="24" fill="#3EB489"/>
+  <!-- Símbolo </> -->
+  <g fill="none" stroke="#2F3437" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="44,42 28,60 44,78"/>
+    <polyline points="76,42 92,60 76,78"/>
+    <line x1="66" y1="36" x2="54" y2="84" stroke="#FFFFFF"/>
+  </g>
+</svg>
